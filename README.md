@@ -1,2 +1,2 @@
 # java-backend-stack
-提供Java后端技术的知识和解决方案。
+Java后端技术栈，面试必过。
